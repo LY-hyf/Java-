@@ -8,3 +8,7 @@ public class Static {
         System.out.println(staticNum + "\n" + num);
     }
 }
+
+/**
+ * 分支测试
+ */
